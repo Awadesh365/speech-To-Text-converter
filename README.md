@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TO DO
+ BUG TO FIX: THE FUNCTIONALITY OF Speech to text is not working on microsoft edge, on Linux PC, After Deployment need to fix this.
+
 
 ## Available Scripts
 
